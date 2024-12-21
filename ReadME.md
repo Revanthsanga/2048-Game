@@ -3,6 +3,7 @@ This is a Python implementation of the popular 2048 game using Pygame. The game 
 
 Features
 Multiple Difficulty Levels: Easy, Medium, and Hard modes, with different grid sizes (3x3 for Easy, 4x4 for Medium, 5x5 for Hard).
+you can change difficulty as per ur wish by pressing f1 you can play easy mode ,f2 for medium and f3 for hard mode.
 Undo Move: A feature to undo the previous move.
 Leaderboard: Tracks the top 5 scores in the game, stored in a file (leaderboard.txt).
 Score Display: Displays the current score during gameplay.
